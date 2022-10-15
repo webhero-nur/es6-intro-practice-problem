@@ -1,0 +1,47 @@
+// Common DOM related interview questions
+
+1. What is DOM?
+Document Object Model shortly known as DOM. It is a platform and language-neural interface that allows programs and scripts to dynamically access and update the content, structure and style of a document using javascript for websites.
+
+2. What are the different ways to get an elemnt from DOM?
+There are many ways to get an elemnt from DOM. Commonly used five ways are:
+i. getElementByID (specific elemnt)
+ii. getElementsByClassName (elemnt list)
+iii. getElementsByTagName (elemnt list)
+iv. querySelector (first elemnt having specific css selector)
+v. querySelectorAll (all elemnts having specific css selector)
+
+3. What's the difference between an Event Handler and an Event Listener?
+The listener listens out for the event happening, and the handler is the code that is run in response to it happening.
+
+4. What does "event bubbling" mean in JavaScript?
+Event bubbling is a method of event propagation in the HTML DOM API when an event is in an element inside another element, and both elements have registered a handle to that event.
+
+5. Can you explain the different types of events available in JavaScript?
+There are sevaral types of events in JavaScript. Most common event is onclick event. It is occur when a user click on something using mouse to a website. Other commonly used events are: onmouseover, onmouseenter, onmouseout for mouse and for keyborad --> keydown, keypress, keyup events happen.
+
+6. What's the difference between event.preventDefault() and event.stopPropagation()?
+
+
+// Common ES6 interview questions
+
+1. What is ES6? Have you ever used anything from ES6?
+
+2. Explain the difference between var, let and const.
+
+3. What is the arrow function, and how to create it?
+
+4. Give an example of an Arrow function in ES6. List down its advantages.
+
+5. Discuss spread operator in ES6 with an example.
+
+6. What do you understand about default parameters?
+
+7. What are template literals in ES6?
+
+8. Tell us the difference between arrow and regular function.
+
+
+// Google It
+
+Common JavaScript ES6 Interview Questions
